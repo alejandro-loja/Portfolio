@@ -28,7 +28,8 @@ function AboutMe() {
                 <div className="col-md-4"></div>
                 <div className="shadow col-md bg-white p-5 m-3">
                 <a href="https://github.com/alejandro-loja" className="btn btn-dark btn-lg text-white m-1">GitHub <i className="fab fa-github-square"></i></a>
-                <a href="https://www.linkedin.com/in/alejandro-loja/" className="btn btn-dark btn-lg text-white m-1">Linkedin <i className="fab fa-linkedin"></i>   </a>
+                <a href="https://www.linkedin.com/in/alejandro-loja/" className="btn btn-dark btn-lg text-white m-1">Linkedin <i className="fab fa-linkedin"></i></a>
+                <a href="mailto:alejandro.loja@gmail.com" className="btn btn-dark btn-lg text-white m-1">Email <i className="fas fa-envelope-square"></i></a>
                 </div>
                 <div className="col-md-4"></div>
             </div>
