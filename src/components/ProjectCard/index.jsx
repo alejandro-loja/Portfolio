@@ -10,7 +10,7 @@ export function ProjectCard(props) {
 
     const {src, alt, title, gitLink, siteLink} = props;
     return (
-        <div className="card text-light bg-secondary m-2 text-center" style={cardStyles}>
+        <div className="m-4 col-lg-3 col-md-3 col-sm-4 col-xs-1 text-light bg-secondary text-center" style={cardStyles}>
             <img src={src} style={imageStyle} className="card-img-top" alt={alt} />
             <div className="card-body p-0 pt-2">
                 <h6 className="card-title p-1 m-0">{title}</h6>
