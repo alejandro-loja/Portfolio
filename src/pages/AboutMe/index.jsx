@@ -9,7 +9,8 @@ const styles = {
 
 function AboutMe() {
   return (
-    <div>
+    // This main covers the about me and the contact me.
+    <div id="main">
       {/* About ME */}
       <div>
         <div className="offset-md-1 col-md-10 offset-sm-1 col-sm-10 shadow bg-white border p-4 clearfix">
